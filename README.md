@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center" >🌟 Welcome to my Repository 🌟</h1>
 
-<!--
-**felipesses/felipesses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, my name is Felipe Magalhães!
 
-Here are some ideas to get you started:
+I'm a Mobile developer passionate about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like solving problems a lot and I am always willing to face challenges
+
+##### 🚩 From Santo Amaro, BA
+
+##### 💻 Software Developer at Calm Experts
+
+##### 📚 I have knowledge in Dart, Kotlin, Java and NodeJS.
+
+##### 📘 I'm currently learning Flutter.
+
+<br/>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felipemagalhaes13/)
+
+<table>
+<td >
+  <img  src="https://github-readme-stats.vercel.app/api?username=felipesses&show_icons=true&theme=dracula"> 
+</td>
+<td >
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesses&layout=compact&theme=dracula"> 
+</td>
+</table>
