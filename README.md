@@ -8,7 +8,7 @@ I like solving problems a lot and I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 Software Developer at Calm Experts
+##### 💻 Software Engineer at 060
 
 ##### 📚 I have knowledge in Dart, Kotlin, Java and NodeJS.
 
