@@ -8,7 +8,7 @@ I like solving problems a lot and I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 Software Engineer at 060
+##### 💻 Flutter Developer at Zup Innovation
 
 ##### 📚 I have knowledge in Dart, Kotlin, Java and NodeJS.
 
