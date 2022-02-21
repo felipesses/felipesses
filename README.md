@@ -8,11 +8,11 @@ I like solving problems a lot and I am always willing to face challenges
 
 ##### 🚩 From Santo Amaro, BA
 
-##### 💻 Flutter Developer at Zup Innovation
+##### 💻 Frontend Developer at Itaú Unibanco
 
-##### 📚 I have knowledge in Dart, Kotlin, Java and NodeJS.
+##### 📚 I have knowledge in Dart, Kotlin, React and NodeJS
 
-##### 📘 I'm currently learning Flutter.
+##### 📘 I'm currently learning Flutter and React.
 
 <br/>
 
