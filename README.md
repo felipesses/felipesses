@@ -10,9 +10,8 @@ I like solving problems a lot and I am always willing to face challenges
 
 ##### 💻 Frontend Developer at Itaú Unibanco
 
-##### 📚 I have knowledge in Dart, Kotlin, React and NodeJS
+##### 📚 I have knowledge in React, Typescript, Javascript and Dart
 
-##### 📘 I'm currently learning Flutter and React.
 
 <br/>
 
