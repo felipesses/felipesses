@@ -2,7 +2,7 @@
 
 ## Hi, my name is Felipe Magalhães!
 
-I'm a Mobile developer passionate about technology.
+I'm a Frontend developer passionate about technology.
 
 I like solving problems a lot and I am always willing to face challenges
 
